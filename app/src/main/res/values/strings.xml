@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">invoice calculation</string>
+    <string name="m1_num1">15976325</string>
+    <string name="m1_num2">48956641</string>
+    <string name="m1_num3">11253469</string>
+    <string name="m1_num4">09082464</string>
+    <string name="m1_num5">10091234</string>
+
+    <string name="m2_num1">95671369</string>
+    <string name="m2_num2">77592687</string>
+    <string name="m2_num3">48763014</string>
+    <string name="m2_num4">68791997</string>
+    <string name="m2_num5">99114514</string>
+
+    <string name="m3_num1">56666971</string>
+    <string name="m3_num2">79859314</string>
+    <string name="m3_num3">15646494</string>
+    <string name="m3_num4">64934120</string>
+    <string name="m3_num5">23056239</string>
+
+    <string name="m4_num1">56694346</string>
+    <string name="m4_num2">15492181</string>
+    <string name="m4_num3">89562466</string>
+    <string name="m4_num4">48316191</string>
+    <string name="m4_num5">81669592</string>
+
+    <string name="m5_num1">64943464</string>
+    <string name="m5_num2">84914923</string>
+    <string name="m5_num3">77952238</string>
+    <string name="m5_num4">03164994</string>
+    <string name="m5_num5">39794321</string>
+
+    <string name="m6_num1">56919121</string>
+    <string name="m6_num2">35897416</string>
+    <string name="m6_num3">01581111</string>
+    <string name="m6_num4">97660356</string>
+    <string name="m6_num5">87523014</string>
+</resources>
